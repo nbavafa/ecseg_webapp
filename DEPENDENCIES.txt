@@ -1,0 +1,16 @@
+Node
+ReactJS
+
+Python(3.7.3):
+Flask 1.0.2
+PIL
+os
+numpy
+skimage
+tkinter
+Tensorflow
+Keras
+scipy
+cv2
+matplotlib
+pydensecrf
