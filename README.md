@@ -1,3 +1,5 @@
+**Webapp requires Mac or Linux OS**
+
 **How to start up the ecseg webapp:**
 
 0. Clone the repository with ```git clone https://github.com/nbavafa/CSE182.git```.
